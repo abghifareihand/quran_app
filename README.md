@@ -5,7 +5,7 @@
 - Light Theme and Dark Theme
 - Localization (ID/EN)
 - Flutter BLOC/CUBIT
-- API : (https://equran.id/apidev/v2)
+- API : https://equran.id/apidev/v2
 
 ### LIGHT
 <img src="assets/screenshots/home_light.png" width=300/> | <img src="assets/screenshots/detail_light.png" width=300/>
