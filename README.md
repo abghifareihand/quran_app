@@ -1,16 +1,17 @@
-# alquran_app
+# Quran App
 
-A new Flutter project.
+### Features:
 
-## Getting Started
+- Light Theme and Dark Theme
+- Localization (ID/EN)
+- Flutter BLOC/CUBIT
+- API : (https://equran.id/apidev/v2)
 
-This project is a starting point for a Flutter application.
+### LIGHT
+<img src="assets/screenshots/home_light.png" width=300/> | <img src="assets/screenshots/detail_light.png" width=300/>
 
-A few resources to get you started if this is your first Flutter project:
+### DARK
+<img src="assets/screenshots/home_dark.png" width=300/> | <img src="assets/screenshots/detail_dark.png" width=300/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### DEMO APP
+https://github.com/user-attachments/assets/22bcb238-5dca-4fbf-a7f7-44c7b2368da4
